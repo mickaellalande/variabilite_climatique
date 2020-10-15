@@ -38,6 +38,8 @@ Vous devriez avoir `(base)` devant votre ligne dans le terminal, qui correspond 
 
 2. **Installer l'environnement de travail**
 
+Attention l'installation de l'environnement requiert environ 2.5 Go !
+
 Pour Windows et Mac, essayez de trouver l'invite de commande de Miniconda, autrement si vous n'avez que l'installation graphique, allez dans les environnements et essayez d'importer le fichier [phd_v3_fh.yml](envs/phd_v3_fh.yml) (dans le dossier [envs](envs)) pour créer le nouvel environnement. Autrement essayez d'installer les packages indiquées ci-dessous dans la commande `conda install ...`
 
 Pour ceux qui réussisent à ouvrir un terminal dans lequel la commande `conda` est disponible, vous pouvez essayer les commandes suivantes :
