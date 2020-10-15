@@ -7,7 +7,7 @@ Mickaël LALANDE (mickael.lalande@univ-grenoble-alpes.fr) - Octobre 2020
 
 Pour télécharger ce dossier, cliquez sur le bouton vert `Code` et vous pouvez tout télécharger directement en zip.
   
-## Installation de l'environnement de travail :
+## Installation de l'environnement de travail :
 
 1. **Installer [Miniconda](https://docs.conda.io/en/latest/miniconda.html)** : 
 
@@ -94,7 +94,7 @@ conda activate work
 jupyter lab
 ```
 
-## Information sur les packages
+## Information sur les packages
 
 
 - **[xesmf](https://xesmf.readthedocs.io/en/latest/)** / esmpy (pour faire des regrids, **pas disponible sous Windows**)
@@ -110,7 +110,7 @@ Optionnels :
 - **jupyterlab** / "nodejs>=10.0" (plus sympa que Jupyter Notebook)
 - **nbresuse** (pour voir la RAM utilisée dans un Notebook)
 
-## Conseils et astuces
+## Conseils et astuces
 
 Informations sur les environnements : https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
