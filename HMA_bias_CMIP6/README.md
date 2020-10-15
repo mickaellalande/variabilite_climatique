@@ -5,6 +5,7 @@
 Mickaël LALANDE (mickael.lalande@univ-grenoble-alpes.fr) - Septembre 2020
 
 ## Sujet et exemple de code
-- Sujet : [Biais-froid-sur-le-Plateau-Tibetain-et-projections-climatiques-CMIP6.pdf](Biais-froid-sur-le-Plateau-Tibetain-et-projections-climatiques-CMIP6.pdf)
-- Exemple de code : [cold_bias_HMA.ipynb](cold_bias_HMA.ipynb)
+- Sujet : [HMA_bias_CMIP6.pdf](HMA_bias_CMIP6.pdf)
+- Exemple de code pour la température : [cold_bias_HMA.ipynb](cold_bias_HMA.ipynb)
+- Exemple de code pour la neige : [snow.ipynb](snow.ipynb)
 
