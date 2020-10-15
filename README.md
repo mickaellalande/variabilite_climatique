@@ -2,10 +2,11 @@
 
 Mickaël LALANDE (mickael.lalande@univ-grenoble-alpes.fr) - Octobre 2020
 
+Pour télécharger ce dossier, cliquez sur le bouton vert `Code` et vous pouvez tout télécharger directement en zip.
+
 ## Projets tutorés :
 - [Biais froid sur le Plateau Tibétain et projections climatiques (CMIP6)](HMA_bias_CMIP6)
 
-Pour télécharger ce dossier, cliquez sur le bouton vert `Code` et vous pouvez tout télécharger directement en zip.
   
 ## Installation de l'environnement de travail :
 
